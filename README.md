@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there! I'm a passionate Full Stack Web Developer with expertise in React, Vue.js, and Express.js. I enjoy building modern, scalable web applications and continuously learning new technologies. Let's build something awesome together! 🚀
+#  About Me:
+Hi there! I'm a passionate Full Stack Web Developer with expertise in React, Vue.js, and Express.js. I enjoy building modern, scalable web applications and continuously learning new technologies. Let's build something awesome together!
 
 
 # 💻 Tech Stack:
